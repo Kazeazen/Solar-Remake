@@ -3,11 +3,11 @@ A remake of a previous academic project. Remake using newer technology, better c
 
 Layout: 
 
-Backend will utilize:
-Express
-Mongoose
+Backend will utilize: <br>
+Express <br>
+Mongoose <br>
 etc... 
-
-Frontend will utilize:
-React
-etc...
+<br>
+Frontend will utilize:<br>
+React<br>
+etc...<br>
